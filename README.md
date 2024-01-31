@@ -8,6 +8,16 @@
  <img  alt="GIF" align="center" src="https://i.imgur.com/8KanUMQ.png" width="500" height="500" />
  </div>
 
+ ## [AI SNAKE](https://github.com/Gazeux33/Snake_Ai)
+
+Snake AI using Neural Network
+
+<p align="center">
+	<a href="https://github.com/Gazeux33/Snake_Ai"><img src="https://i.imgur.com/8KanUMQ.png" width="500"></a>
+</p>
+
+<br>
+
  # [Particles-Simulation](https://github.com/Gazeux33/Particles-Simulation)
  A simple particule simulation with SFML in c++
  <div align="center">
