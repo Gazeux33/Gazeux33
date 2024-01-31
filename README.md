@@ -2,34 +2,34 @@
 
 
 
+# 📂 Projects
 
-
- ## [AI SNAKE](https://github.com/Gazeux33/Snake_Ai)
+ ## [AI SNAKE *(2023)*](https://github.com/Gazeux33/Snake_Ai)
 Snake AI using Neural Network
-<p align="center">
+<div align="center">
 	<a href="https://github.com/Gazeux33/Snake_Ai"><img src="https://i.imgur.com/8KanUMQ.png" width="500"></a>
-</p>
+</div>
 <br>
 
- # [Particles-Simulation](https://github.com/Gazeux33/Particles-Simulation)
+ # [Particles-Simulation *(2024)*](https://github.com/Gazeux33/Particles-Simulation)
  A simple particule simulation with SFML in c++
  <div align="center">
  <img  alt="GIF" align="center" src="https://i.imgur.com/OBkfp9b.png?1" width="500"  />
  </div>
 
- # [Generating and Solving Mazes](https://github.com/Gazeux33/Generating-and-Solving-Mazes)
+ # [Generating and Solving Mazes *(2023)*](https://github.com/Gazeux33/Generating-and-Solving-Mazes)
  A maze generator and solver using A* in python with pygame
  <div align="center">
  <img  alt="GIF" align="center" src="https://i.imgur.com/SX3gmJN.png" width="500"  />
  </div>
 
- # [Connect4 AI](https://github.com/Gazeux33/Connect4_AI)
+ # [Connect4 AI *(2023)*](https://github.com/Gazeux33/Connect4_AI)
  Connect4 AI using Monte Carlo Tree Search
  <div align="center">
  <img  alt="GIF" align="center" src="https://i.imgur.com/MNuqNaF.png" width="500"  />
  </div>
 
-  # [MySuperHoroscope](https://github.com/Gazeux33/MySuperHoroscope)
+  # [MySuperHoroscope *(2023)* ](https://github.com/Gazeux33/MySuperHoroscope)
   Online Website selling daily horoscope
  <div align="center">
  <img  alt="GIF" align="center" src="https://i.imgur.com/bEfAU88.png"   />
