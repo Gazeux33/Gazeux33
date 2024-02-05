@@ -29,7 +29,7 @@ Snake AI using Neural Network
  <img  alt="GIF" align="center" src="https://i.imgur.com/MNuqNaF.png" width="500"  />
  </div>
 
-  # [Prodedural Generation *(2024)*](https://gazeux33.github.io/ProceduralGeneration/)
+  # [Prodedural Generation *(2024)*](https://github.com/Gazeux33/Procedural-Generation)
  Procedural Map generation using Perlin Noise with P5.js
  <div align="center">
  <img  alt="GIF" align="center" src="https://github.com/Gazeux33/Procedural-Generation/blob/main/img/2024-2-5-13-30-25-9994..png" width="500"  />
