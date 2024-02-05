@@ -32,7 +32,7 @@ Snake AI using Neural Network
   # [Prodedural Generation *(2024)*](https://gazeux33.github.io/ProceduralGeneration/)
  Procedural Map generation using Perlin Noise with P5.js
  <div align="center">
- <img  alt="GIF" align="center" src="https://github.com/Gazeux33/Procedural-Generation/blob/main/img/2024-2-4-19-29-1-20617..png" width="500"  />
+ <img  alt="GIF" align="center" src="https://github.com/Gazeux33/Procedural-Generation/blob/main/img/2024-2-5-13-30-25-9994..png" width="500"  />
  </div>
 
   # [MySuperHoroscope *(2023)* ](https://github.com/Gazeux33/MySuperHoroscope)
