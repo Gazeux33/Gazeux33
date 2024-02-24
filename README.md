@@ -1,11 +1,9 @@
 
 
 <div align="center">
-	<a><img src="https://github.com/Gazeux33/Gazeux33/blob/main/assets/Capture%20d%E2%80%99e%CC%81cran%202024-02-24%20a%CC%80%2019.31.17.png" width="500"></a>
+	<a><img src="https://github.com/Gazeux33/Gazeux33/blob/main/assets/Capture_d_e%CC%81cran_2024-02-24_a%CC%80_19.31.17_copie-removebg-preview.png" ></a>
 </div>
 <br>
-
-# 📂 Projects
 
  ## [AI SNAKE *(2023)*](https://github.com/Gazeux33/Snake_Ai)
 Snake AI using Neural Network
