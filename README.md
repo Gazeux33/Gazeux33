@@ -1,6 +1,9 @@
 
 
-
+<div align="center">
+	<a><img src="https://github.com/Gazeux33/Gazeux33/blob/main/assets/Capture%20d%E2%80%99e%CC%81cran%202024-02-24%20a%CC%80%2019.31.17.png" width="500"></a>
+</div>
+<br>
 
 # 📂 Projects
 
