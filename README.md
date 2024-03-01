@@ -1,8 +1,7 @@
 
-<br>
+
 # 📂 Projects
 <br>
-
  ## [AI SNAKE *(2023)*](https://github.com/Gazeux33/Snake_Ai)
 Snake AI using Neural Network
 <div align="center">
