@@ -1,8 +1,6 @@
 
-
-<div align="center">
-	<a><img src="https://github.com/Gazeux33/Gazeux33/blob/main/assets/Capture_d_e%CC%81cran_2024-02-24_a%CC%80_19.31.17_copie-removebg-preview.png" ></a>
-</div>
+<br>
+📂 Projects
 <br>
 
  ## [AI SNAKE *(2023)*](https://github.com/Gazeux33/Snake_Ai)
