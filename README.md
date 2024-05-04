@@ -10,7 +10,13 @@ Snake AI using Neural Network
 </div>
 <br>
 
- # [Particles-Simulation *(2024)*](https://github.com/Gazeux33/Particles-Simulation)
+ # [Variational-Autoencoder *(2024)*](https://github.com/Gazeux33/Variational-Autoencoders)
+ Variational-Autoencoders on the FashionMNIST Dataset
+ <div align="center">
+ <img  alt="GIF" align="center" src="https://github.com/Gazeux33/Variational-Autoencoders/blob/main/assets/VAE.png" width="500"  />
+ </div>
+
+  # [Particles-Simulation *(2024)*](https://github.com/Gazeux33/Particles-Simulation)
  A simple particule simulation with SFML in c++
  <div align="center">
  <img  alt="GIF" align="center" src="https://i.imgur.com/OBkfp9b.png?1" width="500"  />
