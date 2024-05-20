@@ -3,6 +3,14 @@
 # 📂 Projects
 <br>
 
+ ## [Neural Style Transfert *(2024)*](https://github.com/Gazeux33/NeuralStyleTransfert)
+Implementation of Neural Style Transfert using PyTorch
+<div align="center">
+	<a href="https://github.com/Gazeux33/NeuralStyleTransfert"><img src="https://github.com/Gazeux33/NeuralStyleTransfert/blob/main/src/data/results/eiffel_starry_night/results/optimizing_1000.png" width="500"></a>
+</div>
+<br>
+
+
  ## [AI SNAKE *(2023)*](https://github.com/Gazeux33/Snake_Ai)
 Snake AI using Neural Network
 <div align="center">
