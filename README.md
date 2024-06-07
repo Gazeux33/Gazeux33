@@ -10,6 +10,13 @@ Implementation of Neural Style Transfert using PyTorch
 </div>
 <br>
 
+ ## [Generative Adversial Network (WGAN-GP) *(2024)*](https://github.com/Gazeux33/Generative-Adversial-Network)
+Implementation of a WGAN-GP on the CelebA dataset with PyTorch for face generation
+<div align="center">
+	<a href="https://github.com/Gazeux33/Generative-Adversial-Network"><img src="https://github.com/Gazeux33/Generative-Adversial-Network/blob/main/assets/output2.png" width="500"></a>
+</div>
+<br>
+
 
  ## [AI SNAKE *(2023)*](https://github.com/Gazeux33/Snake_Ai)
 Snake AI using Neural Network
