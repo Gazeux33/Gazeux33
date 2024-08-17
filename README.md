@@ -24,19 +24,19 @@ Implementation of a WGAN-GP on the CelebA dataset with PyTorch for face generati
 </div>
 <br>
 
-
- ## [AI SNAKE *(2023)*](https://github.com/Gazeux33/Snake_Ai)
-Snake AI using Neural Network
-<div align="center">
-	<a href="https://github.com/Gazeux33/Snake_Ai"><img src="https://i.imgur.com/8KanUMQ.png" width="500"></a>
-</div>
-<br>
-
  # [Variational-Autoencoder *(2024)*](https://github.com/Gazeux33/Variational-Autoencoders)
  Variational-Autoencoders on the FashionMNIST Dataset
  <div align="center">
  <img  alt="GIF" align="center" src="https://github.com/Gazeux33/Variational-Autoencoders/blob/main/assets/VAE.png" width="500"  />
  </div>
+ <br>
+
+  ## [AI SNAKE *(2023)*](https://github.com/Gazeux33/Snake_Ai)
+Snake AI using Neural Network
+<div align="center">
+	<a href="https://github.com/Gazeux33/Snake_Ai"><img src="https://i.imgur.com/8KanUMQ.png" width="500"></a>
+</div>
+<br>
 
   # [Particles-Simulation *(2024)*](https://github.com/Gazeux33/Particles-Simulation)
  A simple particule simulation with SFML in c++
