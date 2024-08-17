@@ -3,6 +3,13 @@
 # 📂 Projects
 <br>
 
+ ## [Neural Network from Scratch *(2024)*](https://github.com/Gazeux33/NeuralNetwork)
+Implement modular Neural Network library only with Numpy in python
+<div align="center">
+	<a href="https://github.com/Gazeux33/NeuralNetwork"><img src="https://github.com/Gazeux33/NeuralNetwork/blob/main/assets/multi_class2.png" width="500"></a>
+</div>
+<br>
+
  ## [Neural Style Transfert *(2024)*](https://github.com/Gazeux33/NeuralStyleTransfert)
 Implementation of Neural Style Transfert using PyTorch
 <div align="center">
