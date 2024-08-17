@@ -4,7 +4,7 @@
 <br>
 
  ## [Neural Network from Scratch *(2024)*](https://github.com/Gazeux33/NeuralNetwork)
-Implement modular Neural Network library only with Numpy in python
+A Modular Neural Network library only with Numpy in python
 <div align="center">
 	<a href="https://github.com/Gazeux33/NeuralNetwork"><img src="https://github.com/Gazeux33/NeuralNetwork/blob/main/assets/multi_class2.png" width="500"></a>
 </div>
