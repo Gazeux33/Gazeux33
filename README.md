@@ -3,7 +3,7 @@
 # 📂 Projects
 <br>
 
- ## [Neural Network from Scratch *(2024)*](https://github.com/Gazeux33/NeuralNetwork)
+ ## [Neural Networks Library from Scratch *(2024)*](https://github.com/Gazeux33/NeuralNetwork)
 A Modular Neural Network library only with Numpy in python
 <div align="center">
 	<a href="https://github.com/Gazeux33/NeuralNetwork"><img src="https://github.com/Gazeux33/NeuralNetwork/blob/main/assets/multi_class2.png" width="500"></a>
