@@ -3,6 +3,13 @@
 # 📂 Projects
 <br>
 
+ ## [Build a French Large Language Model *(2024)*](https://github.com/Gazeux33/Build-a-LLM)
+In this project, I built a French Large Language Model only with pytorch 
+<div align="center">
+	<a href="https://github.com/Gazeux33/Build-a-LLM"><img src="https://github.com/Gazeux33/Build-a-LLM/blob/master/assets/llm.png" width="500"></a>
+</div>
+<br>
+
  ## [Neural Networks Library from Scratch *(2024)*](https://github.com/Gazeux33/NeuralNetwork)
 A Modular Neural Network library only with Numpy in python
 <div align="center">
