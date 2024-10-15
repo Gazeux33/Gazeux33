@@ -33,6 +33,15 @@ Implementation of a WGAN-GP on the CelebA dataset with PyTorch for face generati
 </div>
 <br>
 
+ ## [Car Plate Detection and Recognition *(2024)*](https://github.com/Gazeux33/CarPlateDetection)
+Create a pipeline of two finetunned YOLOv8 models to detect and analyze car plates 
+<div align="center">
+	<a href="https://github.com/Gazeux33/CarPlateDetection"><img src="https://github.com/Gazeux33/CarPlateDetection/blob/master/assets/result.png" width="500"></a>
+</div>
+<br>
+
+
+
  # [Variational-Autoencoder *(2024)*](https://github.com/Gazeux33/Variational-Autoencoders)
  Variational-Autoencoders on the FashionMNIST Dataset
  <div align="center">
