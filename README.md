@@ -12,7 +12,7 @@ I'm a young **developer**, interested in **AI** and **Deep Learning**.
 - You can send me an email to **theocastillo@yahoo.com**
 
 ## Languages and Tools:
-![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,py,css,html,js,haskell,java,php)
+![My Skills](https://skillicons.dev/icons?i=py,java,php,haskell,c,cs,cpp,css,html,js)
 
 ![My Skills](https://skillicons.dev/icons?i=pycharm,clion,idea,webstorm,phpstorm,vscode,github,gitlab,ubuntu,linux,docker)
 
