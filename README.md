@@ -5,7 +5,7 @@
 <br/>
 I'm a young **developer**, interested in **AI** and **Deep Learning**.
 
-- ⚠️ All my projects on **my portfolio** on <a href="https://tcastillo.me" target="_blank" **>**tcastillo.me**<a> ⚠️
+- ⚠️ All my projects on **my portfolio** on <a href="https://tcastillo.me" target="_blank">**tcastillo.me**<a> ⚠️
 
 - 📚 Currently studying for a **bachelor's degree in computer science**, at Bordeaux IUT, France.
 
