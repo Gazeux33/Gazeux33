@@ -12,14 +12,14 @@ I'm a young **developer**, interested in **AI** and **Deep Learning**.
 - You can send me an email to **theocastillo@yahoo.com**
 
 ## Languages and Tools:
-![My Skills](https://skillicons.dev/icons?i=py,java,php,haskell,c,cs,cpp,css,html,js)
+![Languages](https://skillicons.dev/icons?i=py,java,php,haskell,c,cs,cpp,css,html,js)
 
-![My Skills](https://skillicons.dev/icons?i=pycharm,clion,idea,webstorm,phpstorm,vscode,github,gitlab,ubuntu,linux,docker)
+![Tools](https://skillicons.dev/icons?i=pycharm,clion,idea,webstorm,phpstorm,vscode,github,gitlab,ubuntu,linux,docker)
 
-![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,symfony,react,opencv,django)
+![Technologies](https://skillicons.dev/icons?i=pytorch,tensorflow,symfony,react,opencv,django)
 
 ## Contact 📫
-<a href="https://www.linkedin.com/in/clement-barriere">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="www.linkedin.com/in/theo-castillo">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 
