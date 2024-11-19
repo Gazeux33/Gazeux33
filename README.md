@@ -14,9 +14,9 @@ I'm a young **developer**, interested in **AI** and **Deep Learning**.
 ## Languages and Tools:
 ![Languages](https://skillicons.dev/icons?i=py,java,php,haskell,c,cs,cpp,css,html,js)
 
-![Tools](https://skillicons.dev/icons?i=pycharm,clion,idea,webstorm,phpstorm,vscode,github,gitlab,ubuntu,linux,docker)
+![Tools](https://skillicons.dev/icons?i=pycharm,clion,idea,webstorm,phpstorm,vscode,github,gitlab,git,ubuntu,linux,docker,eclipse,anaconda)
 
-![Technologies](https://skillicons.dev/icons?i=pytorch,tensorflow,symfony,react,opencv,django)
+![Technologies](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,symfony,react,opencv,django,postgres,dotnet)
 
 ## Contact 📫
 <a href="www.linkedin.com/in/theo-castillo">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
